@@ -21,7 +21,6 @@
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjI1b_9oK33AhXpH7kGHf6-BeoQFnoECBAQAQ&url=https%3A%2F%2Fmaven.apache.org%2F&usg=AOvVaw1YYiU6vhRx9JgPlCaD8pID" target="_blank"><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" target="_blank"></a>
 
 
-  ![Snake animation](https://github.com/Vaaaaz/Vaaaaz/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div>
